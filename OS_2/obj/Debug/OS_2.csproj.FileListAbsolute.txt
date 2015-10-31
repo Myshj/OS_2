@@ -1,0 +1,16 @@
+C:\Users\Alexey\AppData\Local\Temporary Projects\OS_2\bin\Debug\OS_2.exe
+C:\Users\Alexey\AppData\Local\Temporary Projects\OS_2\bin\Debug\OS_2.pdb
+C:\Users\Alexey\AppData\Local\Temporary Projects\OS_2\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Alexey\AppData\Local\Temporary Projects\OS_2\obj\Debug\OS_2.Form1.resources
+C:\Users\Alexey\AppData\Local\Temporary Projects\OS_2\obj\Debug\OS_2.Properties.Resources.resources
+C:\Users\Alexey\AppData\Local\Temporary Projects\OS_2\obj\Debug\OS_2.csproj.GenerateResource.Cache
+C:\Users\Alexey\AppData\Local\Temporary Projects\OS_2\obj\Debug\OS_2.exe
+C:\Users\Alexey\AppData\Local\Temporary Projects\OS_2\obj\Debug\OS_2.pdb
+C:\Users\Alexey\Documents\Visual Studio 2008\Projects\OS_2\OS_2\obj\Debug\OS_2.exe
+C:\Users\Alexey\Documents\Visual Studio 2008\Projects\OS_2\OS_2\obj\Debug\OS_2.pdb
+C:\Users\Alexey\Documents\Visual Studio 2008\Projects\OS_2\OS_2\bin\Debug\OS_2.exe
+C:\Users\Alexey\Documents\Visual Studio 2008\Projects\OS_2\OS_2\bin\Debug\OS_2.pdb
+C:\Users\Alexey\Documents\Visual Studio 2008\Projects\OS_2\OS_2\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Alexey\Documents\Visual Studio 2008\Projects\OS_2\OS_2\obj\Debug\OS_2.Form1.resources
+C:\Users\Alexey\Documents\Visual Studio 2008\Projects\OS_2\OS_2\obj\Debug\OS_2.Properties.Resources.resources
+C:\Users\Alexey\Documents\Visual Studio 2008\Projects\OS_2\OS_2\obj\Debug\OS_2.csproj.GenerateResource.Cache
